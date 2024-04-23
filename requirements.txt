@@ -1,0 +1,5 @@
+harborapi==0.23.4
+docker==7.0.0
+click==8.1.7
+asyncclick==8.1.7.2
+toml==0.10.2

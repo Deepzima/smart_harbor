@@ -1,0 +1,40 @@
+# OSX annoying stuff
+.DS_Store
+
+# IDE and other configs
+.idea
+.monokle
+.terraform
+.terraform.lock.hcl
+.vscode
+.vscode/settings.json
+
+
+# Vagrant & Ansible
+.vagrant
+*.log
+**.log
+**.ovpn
+*/logs/*
+vagrant_ansible_inventory_default
+*.retry
+
+# Python metas
+**/**.egg-info/**
+**/__pycache__/**
+__pycache__
+*.pyc
+venv/**
+
+# package directories
+node_modules
+jspm_packages
+config.json
+
+
+#outputs and configs
+
+**/secrets/*
+**/outputs/** 
+**/config/** 
+**/dumps/** 

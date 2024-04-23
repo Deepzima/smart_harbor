@@ -1,0 +1,6 @@
+kustomize 3.9.3
+terraform 1.4.6
+kubectl 1.27.11
+stern 1.27.0
+istioctl 1.19.7
+furyctl 0.27.8
